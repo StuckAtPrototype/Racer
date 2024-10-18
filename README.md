@@ -1,11 +1,14 @@
 # Micro Racer Car - StuckAtPrototype
 
+*thank you for the overwhelmingly positve support!! such an inspiration to keep making fun open source content!*
+
 ## Youtube Video
 A bit of a back-story of how this project came to be. 
 
 [![My Kickstarter failed, so I open sourced it](https://img.youtube.com/vi/6jzG-BMannc/0.jpg)](https://www.youtube.com/watch?v=6jzG-BMannc)
 
 Sub if you like what you see.
+
 
 *Some pictures of the project*
 
