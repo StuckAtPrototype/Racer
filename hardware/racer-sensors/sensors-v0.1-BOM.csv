@@ -1,0 +1,9 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref,Notes
+1,"R4,R5,R6,R3",R_0603_1608Metric,4,10K,WR06X103 JTL,
+2,"D1,D2",LED_0603_1608Metric,2,LED,IN-S63AT5UW,
+3,"R2,R1",R_0603_1608Metric,2,R,ESR03EZPF4700,"Note: I used a 470ohm resistor, but this might need to be adjusted to vary brightness "
+4,C3,C_0603_1608Metric,1,4.7uF,GRM188R61A106ME69D,Replaced with 10uF
+5,"C1,C2",C_0603_1608Metric,2,0.1uF,CC0603KRX7R7BB104,
+6,U2,SOT-23_TO-236_TDK,1,HAL1501SU-A,HAL1501SU-A,
+7,U1,FCSOT8_DTS_TEX,1,OPT4060DTSR,OPT4060DTSR,
+8,J1,PinHeader_2x03_P1.27mm_Vertical_SMD,1,Conn_02x03_SMT,20021321-00006C4LF,
