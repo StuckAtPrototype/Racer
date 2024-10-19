@@ -2,48 +2,47 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "11c7bd96-786c-4c10-b71b-7b198cc052d5")
+	(uuid "36bdd4b7-48c8-44dd-9605-574cba1acfde")
 	(paper "A4")
 	(title_block
-		(title "Racer")
-		(date "2024-10-14")
-		(rev "v0.2")
-		(company "StuckAtPrototype")
+		(title "Micro Racer Car")
+		(date "2024-10-17")
+		(rev "0.2.1")
 	)
 	(lib_symbols)
 	(polyline
 		(pts
-			(xy 36.83 168.91) (xy 36.83 191.77)
+			(xy 35.56 170.18) (xy 35.56 193.04)
 		)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
-		(uuid "2f15b147-f8b1-4453-9014-233f8fd3fd46")
+		(uuid "18b5366c-e583-44d0-ae71-5656b2a85abd")
 	)
 	(polyline
 		(pts
-			(xy 19.05 184.15) (xy 71.12 184.15)
+			(xy 17.78 177.8) (xy 69.85 177.8)
 		)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
-		(uuid "9eab152f-651f-4b10-9695-79c7dc6c71e3")
+		(uuid "a8006403-0a07-47f1-ba28-30be694be52c")
 	)
 	(polyline
 		(pts
-			(xy 19.05 176.53) (xy 71.12 176.53)
+			(xy 17.78 185.42) (xy 69.85 185.42)
 		)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
-		(uuid "da6e7ba8-294a-4126-bd7b-bd6ab88d32b5")
+		(uuid "b624be13-5fda-4d89-88de-00302ea4b9fc")
 	)
 	(rectangle
-		(start 19.05 168.91)
-		(end 71.12 191.77)
+		(start 17.78 170.18)
+		(end 69.85 193.04)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -51,12 +50,12 @@
 		(fill
 			(type none)
 		)
-		(uuid f775ab66-7c84-42c7-9808-47c295d229a4)
+		(uuid 64dcb665-39e8-45eb-a380-2ec1f8dae4e3)
 	)
 	(image
-		(at 147.8499 73.1165)
+		(at 146.5799 74.3865)
 		(scale 0.405702)
-		(uuid "a4547090-b82e-4cf0-a5ba-d800c28f53c9")
+		(uuid "57afb339-49c6-4397-bfe7-193ed721d3e0")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAtAAAAHgCAIAAAADp837AAAABGdBTUEAALGPC/xhBQAACklpQ0NQ"
 			"c1JHQiBJRUM2MTk2Ni0yLjEAAEiJnVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQWaIQkgBhhBAS"
 			"QMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec5/zOec8PgBES"
@@ -6724,9 +6723,20 @@
 			"AABJRU5ErkJggg=="
 		)
 	)
+	(text "Page 3"
+		(exclude_from_sim no)
+		(at 26.416 190.5 0)
+		(effects
+			(font
+				(face "Avenir")
+				(size 3 3)
+			)
+		)
+		(uuid "217d3a22-3607-4022-a8f3-f0b602b5f29a")
+	)
 	(text "Micro Racer Car - StuckAtPrototype"
 		(exclude_from_sim no)
-		(at 148.844 117.348 0)
+		(at 147.574 118.618 0)
 		(effects
 			(font
 				(face "Avenir")
@@ -6734,76 +6744,65 @@
 				(color 0 0 0 1)
 			)
 		)
-		(uuid "158571b7-9921-40c8-b5a4-652324375ae4")
-	)
-	(text "Page 1"
-		(exclude_from_sim no)
-		(at 28.194 174.244 0)
-		(effects
-			(font
-				(face "Avenir")
-				(size 3 3)
-			)
-		)
-		(uuid "42c926eb-9f93-4060-81e5-78fad2326c8b")
-	)
-	(text "Power"
-		(exclude_from_sim no)
-		(at 45.72 182.118 0)
-		(effects
-			(font
-				(face "Avenir")
-				(size 3 3)
-			)
-		)
-		(uuid "721a9781-53ab-45a2-afcd-d3f13932d941")
-	)
-	(text "Page 3"
-		(exclude_from_sim no)
-		(at 27.686 189.23 0)
-		(effects
-			(font
-				(face "Avenir")
-				(size 3 3)
-			)
-		)
-		(uuid "aa59236a-517c-4001-963f-5dbc0b3a7838")
+		(uuid "57802864-67ca-46d5-aed2-a1c71671e443")
 	)
 	(text "Microcontroller"
 		(exclude_from_sim no)
-		(at 54.102 174.498 0)
+		(at 52.832 175.768 0)
 		(effects
 			(font
 				(face "Avenir")
 				(size 3 3)
 			)
 		)
-		(uuid "dc5aacaf-a9fb-4d42-84ff-8851408d987d")
+		(uuid "6cb2aea9-125f-4751-affc-c167008d6468")
 	)
-	(text "Page 2\n"
+	(text "Power"
 		(exclude_from_sim no)
-		(at 27.94 181.864 0)
+		(at 44.45 183.388 0)
 		(effects
 			(font
 				(face "Avenir")
 				(size 3 3)
 			)
 		)
-		(uuid "e5a93716-fdb4-471f-b486-017cee8d816c")
+		(uuid "97983508-75c6-4b28-8cda-bb3cb1634dde")
 	)
 	(text "Motor"
 		(exclude_from_sim no)
-		(at 45.72 189.738 0)
+		(at 44.45 191.008 0)
 		(effects
 			(font
 				(face "Avenir")
 				(size 3 3)
 			)
 		)
-		(uuid "e9593fdb-63f7-4316-a35e-cfbbace216d6")
+		(uuid "c3395fb8-5626-4daf-ac50-5a0c2dc09af9")
+	)
+	(text "Page 2\n"
+		(exclude_from_sim no)
+		(at 26.67 183.134 0)
+		(effects
+			(font
+				(face "Avenir")
+				(size 3 3)
+			)
+		)
+		(uuid "cafead75-c3e2-4cd7-b2f7-32d2b2bed13f")
+	)
+	(text "Page 1"
+		(exclude_from_sim no)
+		(at 26.924 175.514 0)
+		(effects
+			(font
+				(face "Avenir")
+				(size 3 3)
+			)
+		)
+		(uuid "eeb490ef-cdfd-498f-a273-68090aed4b9f")
 	)
 	(sheet
-		(at -54.61 106.68)
+		(at -50.8 63.5)
 		(size 44.45 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -6813,47 +6812,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "c22ff400-f1a5-4ff1-ac8d-37560342ac36")
-		(property "Sheetname" "MOTOR"
-			(at -54.61 105.9684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "MOTOR.kicad_sch"
-			(at -54.61 135.2046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "racer"
-				(path "/11c7bd96-786c-4c10-b71b-7b198cc052d5"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at -54.61 69.85)
-		(size 44.45 27.94)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cd9195e6-ad1e-4d5d-a0fb-79be118ad90b")
+		(uuid "16430335-6412-4ebe-a9fe-35da36a3608b")
 		(property "Sheetname" "POWER"
-			(at -54.61 69.1384 0)
+			(at -50.8 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6862,7 +6823,7 @@
 			)
 		)
 		(property "Sheetfile" "PWR.kicad_sch"
-			(at -54.61 98.3746 0)
+			(at -50.8 92.0246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6871,15 +6832,15 @@
 			)
 		)
 		(instances
-			(project "racer"
-				(path "/11c7bd96-786c-4c10-b71b-7b198cc052d5"
-					(page "4")
+			(project "RACER-v0.2.1"
+				(path "/36bdd4b7-48c8-44dd-9605-574cba1acfde"
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at -54.61 33.02)
+		(at -50.8 100.33)
 		(size 44.45 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -6889,9 +6850,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "dd99fc06-f95c-4137-a20d-3df297bea858")
-		(property "Sheetname" "MCU"
-			(at -54.61 32.3084 0)
+		(uuid "3409247f-879f-44c7-a5b6-6d14bc62de98")
+		(property "Sheetname" "MOTOR"
+			(at -50.8 99.6184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6899,8 +6860,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MCU.kicad_sch"
-			(at -54.61 61.5446 0)
+		(property "Sheetfile" "MOTOR.kicad_sch"
+			(at -50.8 128.8546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6909,8 +6870,46 @@
 			)
 		)
 		(instances
-			(project "racer"
-				(path "/11c7bd96-786c-4c10-b71b-7b198cc052d5"
+			(project "RACER-v0.2.1"
+				(path "/36bdd4b7-48c8-44dd-9605-574cba1acfde"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -50.8 26.67)
+		(size 44.45 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78fbd42a-ee6c-4d72-a5fe-01ccde5ce8dc")
+		(property "Sheetname" "MCU"
+			(at -50.8 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at -50.8 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RACER-v0.2.1"
+				(path "/36bdd4b7-48c8-44dd-9605-574cba1acfde"
 					(page "2")
 				)
 			)
