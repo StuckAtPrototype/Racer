@@ -89,6 +89,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -465,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tank.kicad_pro",
+    "filename": "racer.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -511,6 +512,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
