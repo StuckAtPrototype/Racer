@@ -557,7 +557,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 0 1.43 180)
 			(layer "F.Fab")
 			(uuid "8be9222e-b85d-45dd-ad2c-aa41a6f933e2")
@@ -1196,7 +1196,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 0 1.43 180)
 			(layer "F.Fab")
 			(uuid "a628967f-7b84-43d8-8722-49c1b1b80f55")
