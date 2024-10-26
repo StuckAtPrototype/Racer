@@ -5,3 +5,4 @@ cmake-build-debug/
 sdkconfig.old
 sdkconfig
 venv/
+.DS_Store

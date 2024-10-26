@@ -89,6 +89,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -465,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tank.kicad_pro",
+    "filename": "racer.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -511,6 +512,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -629,6 +631,18 @@
     [
       "11c7bd96-786c-4c10-b71b-7b198cc052d5",
       "Root"
+    ],
+    [
+      "dd99fc06-f95c-4137-a20d-3df297bea858",
+      "MCU"
+    ],
+    [
+      "c22ff400-f1a5-4ff1-ac8d-37560342ac36",
+      "MOTOR"
+    ],
+    [
+      "cd9195e6-ad1e-4d5d-a0fb-79be118ad90b",
+      "POWER"
     ]
   ],
   "text_variables": {}
