@@ -250,6 +250,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -262,6 +263,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -274,13 +276,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/e0fc220f-7106-440f-afa4-c5cc9dc5f4ee")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -462,6 +465,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -474,6 +478,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -486,13 +491,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/a8dbc286-8d5c-4145-908a-ef89b802be4e")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -672,6 +678,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -684,6 +691,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -696,13 +704,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/33a25aa6-ff3c-4ea7-81c3-978ffaf37b7f")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -882,6 +891,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -894,6 +904,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -906,13 +917,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/9cb05934-b9cb-40e6-bddd-fb364200979d")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -1092,6 +1104,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1104,6 +1117,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1116,13 +1130,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/cf522b85-88bb-45ae-9308-b0dad654ccef")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -1302,6 +1317,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1314,6 +1330,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1326,13 +1343,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0f149b3e-8a4f-4173-8671-5d05dcf1c16e")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1512,6 +1530,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1524,6 +1543,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1536,13 +1556,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/921cb297-910c-41b3-9908-70eb01643aff")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -1722,6 +1743,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1734,6 +1756,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1746,13 +1769,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ed1f8406-bbc8-4c63-9a0e-063eacae4312")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -1932,6 +1956,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1944,6 +1969,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1956,13 +1982,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_* Resistor_*")
 		(path "/45afc562-3c7b-41e5-bd7a-3787c9392a8f")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -2142,6 +2169,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2154,6 +2182,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2166,13 +2195,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/f7f5f233-a103-4bbe-910a-ab5aeb684d49")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 1.2 1.2)
@@ -2312,6 +2342,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2324,6 +2355,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2336,13 +2368,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/5d3ee794-f3fa-4f3e-886d-0835733bae01")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.2 -1.2)
@@ -2482,6 +2515,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2494,6 +2528,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2506,13 +2541,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/6ca5c765-3342-47b7-9188-c3c25891921c")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -2692,6 +2728,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2704,6 +2741,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2716,13 +2754,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/af841208-f2c2-46c6-9b7d-95357efd5d9f")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 1.2 1.2)
@@ -2862,6 +2901,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2874,6 +2914,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2886,13 +2927,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/c4899b32-0bbc-4e8a-bc19-02c195a671f0")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -3074,6 +3116,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3086,6 +3129,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3098,13 +3142,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/39ce00b2-b3a6-4896-9544-8b64f5405e43")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -3286,6 +3331,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3298,6 +3344,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3310,6 +3357,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3372,6 +3420,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3384,6 +3433,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3396,13 +3446,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/dfaa683d-58b5-4074-b7bc-2cb335076cc0")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -3582,6 +3633,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3594,6 +3646,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3606,13 +3659,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_* Resistor_*")
 		(path "/4df66f57-fcc9-442c-891a-6a47a48ca09c")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -3792,6 +3846,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3804,6 +3859,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3816,13 +3872,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/c3302c0d-f731-4808-a881-06ac7e70d207")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -4000,6 +4057,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4012,6 +4070,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4024,12 +4083,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/1d1cc60c-bc45-43df-ab6f-aaa608ff5c23")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.4 -0.5)
@@ -4159,6 +4219,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4171,6 +4232,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4183,13 +4245,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/2e4617f0-37cc-41d1-9b70-35d446ee8a97")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -4369,6 +4432,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4381,6 +4445,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4393,13 +4458,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/58690eda-dd73-4718-8d1f-8cc5580bb4a3")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4579,6 +4645,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4591,6 +4658,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4603,13 +4671,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/1b7da561-c50d-43ed-bdc7-33a97b99c431")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4789,6 +4858,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4801,6 +4871,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4813,13 +4884,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/027e3fe6-8fdf-4a4a-9c4a-c57d4f3745af")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -4999,6 +5071,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5011,6 +5084,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5023,13 +5097,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/bda948e0-f811-4feb-8858-31e6b3b9d63c")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 1.2 1.2)
@@ -5169,6 +5244,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5181,6 +5257,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5193,13 +5270,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_* Resistor_*")
 		(path "/a1ed1c9b-0b67-420f-b465-8a705127d788")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -5379,6 +5457,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5391,6 +5470,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5403,13 +5483,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/43b76665-5d7b-4af6-9269-fee486e31f30")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -5589,6 +5670,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5601,6 +5683,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5613,13 +5696,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/77153dec-50a1-4e76-a897-f69d04f002c1")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 1.2 1.2)
@@ -5759,6 +5843,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5771,6 +5856,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5783,13 +5869,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/2b54fb84-e0d1-4c94-8171-6e1c5013ec95")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -5971,6 +6058,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5983,6 +6071,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5995,13 +6084,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/10d6cbfa-28e9-4f3e-8148-18c23fc70877")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6181,6 +6271,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6193,6 +6284,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6205,13 +6297,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/07a3f9ab-8455-4c83-ac27-5bd1552380c3")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6391,6 +6484,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6403,6 +6497,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6415,13 +6510,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/9cda2bb6-5283-4ad2-b8dd-7d8403e53483")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -6599,6 +6695,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6611,6 +6708,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6623,12 +6721,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/295517f1-fbf9-4e5c-b2f6-918ee56a9d1b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -1.575 -1.275)
@@ -6767,6 +6866,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6779,6 +6879,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6791,12 +6892,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/40b709c7-9592-40b7-ba95-7d6a06804bec")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.1 -1.62)
@@ -6994,7 +7096,7 @@
 				)
 			)
 		)
-		(property "Value" "1.43K"
+		(property "Value" "5K"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "c322fb8b-f64a-4610-b8bf-c7127b76acd4")
@@ -7014,6 +7116,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7026,6 +7129,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7038,13 +7142,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7c8f230b-da76-4b00-8bb7-bbffa559c2a4")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -7224,6 +7329,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7236,6 +7342,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7248,13 +7355,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/111db1ff-de95-4593-a11f-c350165d741d")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -7434,6 +7542,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7446,6 +7555,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7458,13 +7568,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/0756f2d4-f0fd-413c-8525-225cf5be20ba")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -7644,6 +7755,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7656,6 +7768,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7668,13 +7781,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/da29c661-4cd8-4356-89f2-47f36b2ed13b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.11 -2.11)
@@ -8109,6 +8223,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8121,6 +8236,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8133,13 +8249,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/b4154c51-ff32-4c32-94ce-7e9f975f6b3a")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -8317,6 +8434,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8329,6 +8447,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8341,13 +8460,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "USB*C*Plug*")
 		(path "/fb4c41d2-6dc7-486a-a433-720ca38de69c")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.37 -1.49)
@@ -8698,6 +8818,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8710,6 +8831,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8722,13 +8844,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_* Resistor_*")
 		(path "/c054ad1d-d218-431b-86e8-574d42069a58")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -8906,6 +9029,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8918,6 +9042,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8930,12 +9055,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/3a9afa15-fd0b-456e-bc71-0586601ef555")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -1.575 -1.275)
@@ -9076,6 +9202,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9088,6 +9215,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9100,13 +9228,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/673d46d1-4f21-4a71-8140-d945b28d1c33")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -9284,6 +9413,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9296,6 +9426,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9308,12 +9439,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/cdcc852c-c4ef-4c07-bb64-49f2ac16fddf")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -1.575 -1.275)
@@ -9454,6 +9586,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9466,6 +9599,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9478,13 +9612,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_* Resistor_*")
 		(path "/44b7c8f9-7ac1-49dc-8709-ef2449f5adf1")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -9664,6 +9799,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9676,6 +9812,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9688,13 +9825,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6c4bc10a-eaba-4e81-b215-c6c5e2d74e35")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 0.735)
@@ -9896,6 +10034,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9908,6 +10047,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9920,13 +10060,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d23df02d-b756-41a2-b124-4461d6cd98dd")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 8.95)
@@ -10180,6 +10321,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10192,6 +10334,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10204,12 +10347,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/0f4903a0-ddcd-46d0-af23-6d0ba75f98b5")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -11199,6 +11343,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11211,6 +11356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11223,13 +11369,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/cdb1e7f0-c146-488b-88f7-c6d9f10e0900")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -11409,6 +11556,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11421,6 +11569,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11433,13 +11582,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/54e9ef3d-24cb-43e4-bba7-6252e228d5ad")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -11619,6 +11769,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11631,6 +11782,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11643,13 +11795,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/63963916-442d-48bd-aceb-b0f8b956e54b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -11829,6 +11982,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11841,6 +11995,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11853,13 +12008,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/ce080914-ffbf-4a83-bd71-fa1b738c89fd")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -12039,6 +12195,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12051,6 +12208,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12063,12 +12221,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/98155b14-1916-49aa-946c-636c9fd6e107")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -1.575 -1.275)
@@ -12209,6 +12368,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12221,6 +12381,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12233,13 +12394,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0c0a4039-1758-4f97-bd20-cc90102610e3")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -12419,6 +12581,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12431,6 +12594,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12443,13 +12607,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/784cd251-08f7-4843-ae00-d07188100947")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -12631,6 +12796,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12643,6 +12809,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12655,13 +12822,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc53bbd0-1011-4470-a2fe-641423dfe3d1")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -12841,6 +13009,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12853,6 +13022,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12865,13 +13035,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/a72dde1d-2697-4aae-86f2-5d8c4bdec1fd")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -13049,6 +13220,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13061,6 +13233,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13073,12 +13246,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/0253b434-7ec0-439b-a57f-1619dca0f52b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.1 -1.62)
@@ -13296,6 +13470,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13308,6 +13483,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13320,13 +13496,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/2d56079a-c29c-4378-a9be-ed82bfee968b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.2 -1.2)
@@ -13466,6 +13643,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13478,6 +13656,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13490,13 +13669,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/f431a371-8b4b-4250-8d82-7ffcc0a0abf5")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -13676,6 +13856,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13688,6 +13869,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13700,13 +13882,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5458e232-02e4-4a31-ae20-faea26346d76")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -13886,6 +14069,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13898,6 +14082,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13910,13 +14095,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/c685da23-5cef-4fde-9fb2-fc66a46281e1")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -14098,6 +14284,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14110,6 +14297,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14122,6 +14310,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14184,6 +14373,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14196,6 +14386,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14208,13 +14399,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
 		(path "/f5e2cfee-ec8e-448c-8cc5-b06d204e4690")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -14394,6 +14586,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14406,6 +14599,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14418,13 +14612,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/eb6decfe-6053-41aa-adc4-a591a6d7679c")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -14604,6 +14799,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14616,6 +14812,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14628,13 +14825,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "LED-* LED_*")
 		(path "/77ad60a3-7ffa-4175-a2ab-0df295da34e6")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -14816,6 +15014,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14828,6 +15027,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14840,13 +15040,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/10c41114-44ee-44ce-86fd-1dcf06c3988f")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.2 -1.2)
@@ -14986,6 +15187,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14998,6 +15200,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15010,12 +15213,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/1068ee2f-1739-4a9c-9fe5-b5c9793dd334")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.6)
@@ -15265,6 +15469,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15277,6 +15482,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15289,13 +15495,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*")
 		(path "/94c6caad-3a44-4a5d-ade1-fd6a7564ae27")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -1.2 -1.2)
@@ -15433,6 +15640,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15445,6 +15653,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15457,6 +15666,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15475,7 +15685,7 @@
 		)
 		(path "/7e59c15e-52df-4828-93cf-32be766dcd28")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.5 -1.8)
@@ -15754,6 +15964,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15766,6 +15977,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15778,6 +15990,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15961,6 +16174,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15973,6 +16187,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15985,13 +16200,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/596b72b0-41d3-4f87-8bb0-079aca7509cf")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -16171,6 +16387,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16183,6 +16400,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16195,13 +16413,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/21dd001f-9b97-404f-812a-8308ddded7fa")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -16381,6 +16600,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16393,6 +16613,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16405,13 +16626,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/299b50bf-8a0d-4a1a-bb70-24f3e612d2c3")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -16589,6 +16811,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16601,6 +16824,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16613,12 +16837,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/e2ce0983-f226-4d5c-8f5a-65c281fb8415")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -16941,6 +17166,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16953,6 +17179,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16965,13 +17192,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/89eab52f-1d89-45db-80fb-90a882b7ad28")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -17151,6 +17379,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17163,6 +17392,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17175,13 +17405,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/1600d4f1-c291-4419-ac2a-8564b423b922")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -17361,6 +17592,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17373,6 +17605,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17385,13 +17618,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "C_*")
 		(path "/096ac990-8bf6-4ddf-885d-2f9ac03d85ac")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -17571,6 +17805,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17583,6 +17818,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17595,13 +17831,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/b521d9d8-7f06-4804-8a20-5fcdd703520b")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -17785,6 +18022,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17798,6 +18036,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17811,6 +18050,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18256,6 +18496,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18269,6 +18510,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18282,6 +18524,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18289,7 +18532,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7aa3dd48-3daa-40e2-8e69-ea25a3552ab1")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
@@ -18374,6 +18617,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18387,6 +18631,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18400,6 +18645,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18407,7 +18653,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2e84829c-b285-43c5-8b85-efc744a0a152")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.765 1.965)
@@ -18866,6 +19112,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18879,6 +19126,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18892,6 +19140,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18899,7 +19148,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f5bf1b5e-2f7a-45c7-99d5-8828202c0e67")
 		(sheetname "Root")
-		(sheetfile "tank.kicad_sch")
+		(sheetfile "racer.kicad_sch")
 		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
