@@ -11251,7 +11251,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "PTS810SJM250SMTRLFS"
+		(property "MPN" "PTS810SJM250SMTRLFS"
 			(at 140.335 340.995 90)
 			(effects
 				(font
@@ -11338,7 +11338,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X1003FTL"
+		(property "MPN" "WR06X1003FTL"
 			(at 191.77 367.665 0)
 			(effects
 				(font
@@ -11554,7 +11554,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 351.155 158.115 0)
 			(effects
 				(font
@@ -11642,7 +11642,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 111.125 312.42 0)
 			(effects
 				(font
@@ -11730,7 +11730,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188C80E476ME05D"
+		(property "MPN" "GRM188C80E476ME05D"
 			(at 106.045 257.175 0)
 			(effects
 				(font
@@ -11882,7 +11882,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 389.255 180.975 0)
 			(effects
 				(font
@@ -12099,7 +12099,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ERA-3AED303V"
+		(property "MPN" "ERA-3AED303V"
 			(at 485.775 189.865 0)
 			(effects
 				(font
@@ -12184,7 +12184,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESP32-H2-MINI-1-N4"
+		(property "MPN" "ESP32-H2-MINI-1-N4"
 			(at 165.1 254.635 0)
 			(effects
 				(font
@@ -12424,7 +12424,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "TPD1E10B06DYAR"
+		(property "MPN" "TPD1E10B06DYAR"
 			(at 178.435 114.935 0)
 			(effects
 				(font
@@ -12576,7 +12576,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 127.635 214.63 0)
 			(effects
 				(font
@@ -12663,7 +12663,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 389.255 234.315 0)
 			(effects
 				(font
@@ -12823,7 +12823,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "RMCF0603FT1M00"
+		(property "MPN" "RMCF0603FT1M00"
 			(at 109.855 144.145 0)
 			(effects
 				(font
@@ -12967,7 +12967,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 485.775 179.705 0)
 			(effects
 				(font
@@ -13052,7 +13052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "AP2205-33W5-7"
+		(property "MPN" "AP2205-33W5-7"
 			(at 358.775 80.645 0)
 			(effects
 				(font
@@ -13210,7 +13210,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 241.3 158.75 90)
 			(effects
 				(font
@@ -13427,7 +13427,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "A3908EEETR-T"
+		(property "MPN" "A3908EEETR-T"
 			(at 461.645 224.155 0)
 			(effects
 				(font
@@ -13535,7 +13535,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ERA-3AED303V"
+		(property "MPN" "ERA-3AED303V"
 			(at 389.255 191.135 0)
 			(effects
 				(font
@@ -13620,7 +13620,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "150060RS75000"
+		(property "MPN" "150060RS75000"
 			(at 241.3 170.18 0)
 			(effects
 				(font
@@ -13836,7 +13836,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 375.285 89.535 0)
 			(effects
 				(font
@@ -13924,7 +13924,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRPB032VWQS-RC"
+		(property "MPN" "GRPB032VWQS-RC"
 			(at 80.645 283.845 0)
 			(effects
 				(font
@@ -14024,7 +14024,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 213.36 113.665 0)
 			(effects
 				(font
@@ -14111,7 +14111,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 485.775 233.045 0)
 			(effects
 				(font
@@ -14196,7 +14196,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "A3908EEETR-T"
+		(property "MPN" "A3908EEETR-T"
 			(at 365.125 172.085 0)
 			(effects
 				(font
@@ -14431,7 +14431,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "PTS810SJM250SMTRLFS"
+		(property "MPN" "PTS810SJM250SMTRLFS"
 			(at 200.025 325.12 90)
 			(effects
 				(font
@@ -14644,7 +14644,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 175.895 299.085 0)
 			(effects
 				(font
@@ -14729,7 +14729,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 267.335 291.465 90)
 			(effects
 				(font
@@ -14814,7 +14814,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 267.335 282.575 90)
 			(effects
 				(font
@@ -14964,7 +14964,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 301.625 86.995 90)
 			(effects
 				(font
@@ -15115,7 +15115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 118.745 257.175 0)
 			(effects
 				(font
@@ -15201,7 +15201,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 441.325 156.845 0)
 			(effects
 				(font
@@ -15364,7 +15364,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "RMCF0603JT5R10"
+		(property "MPN" "RMCF0603JT5R10"
 			(at 141.605 132.715 0)
 			(effects
 				(font
@@ -15509,7 +15509,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ERJ-PB3B7502V"
+		(property "MPN" "ERJ-PB3B7502V"
 			(at 283.21 124.46 0)
 			(effects
 				(font
@@ -15660,7 +15660,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 227.33 302.895 0)
 			(effects
 				(font
@@ -15747,7 +15747,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "NTCG163JF103HT1"
+		(property "MPN" "NTCG163JF103HT1"
 			(at 266.7 129.54 0)
 			(effects
 				(font
@@ -15833,7 +15833,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "150060RS75000"
+		(property "MPN" "150060RS75000"
 			(at 311.785 86.995 0)
 			(effects
 				(font
@@ -15919,7 +15919,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CL10A225KO8NNNC"
+		(property "MPN" "CL10A225KO8NNNC"
 			(at 340.995 89.535 0)
 			(effects
 				(font
@@ -16131,7 +16131,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "IN-S63AT5UW"
+		(property "MPN" "IN-S63AT5UW"
 			(at 280.035 282.575 0)
 			(effects
 				(font
@@ -16216,7 +16216,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "150060RS75000"
+		(property "MPN" "150060RS75000"
 			(at 280.035 264.795 0)
 			(effects
 				(font
@@ -16434,7 +16434,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "RMCF0603JT5R10"
+		(property "MPN" "RMCF0603JT5R10"
 			(at 257.81 129.54 0)
 			(effects
 				(font
@@ -16598,7 +16598,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "JS102011SAQN"
+		(property "MPN" "JS102011SAQN"
 			(at 280.67 65.405 90)
 			(effects
 				(font
@@ -16882,7 +16882,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R60J226MEA0J"
+		(property "MPN" "GRM188R60J226MEA0J"
 			(at 275.59 115.57 0)
 			(effects
 				(font
@@ -17035,7 +17035,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ERA-3AED303V"
+		(property "MPN" "ERA-3AED303V"
 			(at 389.255 244.475 0)
 			(effects
 				(font
@@ -17380,7 +17380,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "A3908EEETR-T"
+		(property "MPN" "A3908EEETR-T"
 			(at 461.645 170.815 0)
 			(effects
 				(font
@@ -17616,7 +17616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 447.675 156.845 0)
 			(effects
 				(font
@@ -17704,7 +17704,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X103 JTL"
+		(property "MPN" "WR06X103 JTL"
 			(at 127.635 224.79 0)
 			(effects
 				(font
@@ -17855,7 +17855,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 267.335 264.795 90)
 			(effects
 				(font
@@ -17942,7 +17942,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X1003FTL"
+		(property "MPN" "WR06X1003FTL"
 			(at 172.085 367.665 0)
 			(effects
 				(font
@@ -18028,7 +18028,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 344.805 211.455 0)
 			(effects
 				(font
@@ -18309,7 +18309,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 447.675 210.185 0)
 			(effects
 				(font
@@ -18396,7 +18396,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ERA-3AED303V"
+		(property "MPN" "ERA-3AED303V"
 			(at 485.775 243.205 0)
 			(effects
 				(font
@@ -18942,7 +18942,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 267.335 273.685 90)
 			(effects
 				(font
@@ -19029,7 +19029,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X1003FTL"
+		(property "MPN" "WR06X1003FTL"
 			(at 181.61 367.665 0)
 			(effects
 				(font
@@ -19114,7 +19114,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "150060RS75000"
+		(property "MPN" "150060RS75000"
 			(at 248.92 170.18 0)
 			(effects
 				(font
@@ -19201,7 +19201,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX5R8BB105"
+		(property "MPN" "CC0603KRX5R8BB105"
 			(at 111.125 325.12 0)
 			(effects
 				(font
@@ -19352,7 +19352,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 351.155 211.455 0)
 			(effects
 				(font
@@ -19437,7 +19437,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "A3908EEETR-T"
+		(property "MPN" "A3908EEETR-T"
 			(at 365.125 225.425 0)
 			(effects
 				(font
@@ -19543,7 +19543,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "150060RS75000"
+		(property "MPN" "150060RS75000"
 			(at 280.035 273.685 0)
 			(effects
 				(font
@@ -19630,7 +19630,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "CC0603KRX7R7BB104"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 123.825 325.12 0)
 			(effects
 				(font
@@ -19848,7 +19848,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "PZ2.54-1x4-11.2"
+		(property "MPN" "PZ2.54-1x4-11.2"
 			(at 239.395 219.075 90)
 			(effects
 				(font
@@ -20008,7 +20008,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "B2B-PH-K-S"
+		(property "MPN" "B2B-PH-K-S"
 			(at 263.525 56.515 90)
 			(effects
 				(font
@@ -20095,7 +20095,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "WR06X1003FTL"
+		(property "MPN" "WR06X1003FTL"
 			(at 161.925 367.665 0)
 			(effects
 				(font
@@ -20246,7 +20246,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "IN-S63AT5UW"
+		(property "MPN" "IN-S63AT5UW"
 			(at 280.035 291.465 0)
 			(effects
 				(font
@@ -20331,7 +20331,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "MCP73833T-AMI/MF"
+		(property "MPN" "MCP73833T-AMI/MF"
 			(at 242.57 114.3 0)
 			(effects
 				(font
@@ -20572,7 +20572,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "ESR03EZPF2000"
+		(property "MPN" "ESR03EZPF2000"
 			(at 248.92 158.75 90)
 			(effects
 				(font
@@ -20721,7 +20721,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "RT0603BRE071K43L"
+		(property "MPN" "RT0603BRE071K43L"
 			(at 259.715 114.3 90)
 			(effects
 				(font
@@ -21002,7 +21002,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 441.325 210.185 0)
 			(effects
 				(font
@@ -21154,7 +21154,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "GRM188R61A106ME69D"
+		(property "MPN" "GRM188R61A106ME69D"
 			(at 344.805 158.115 0)
 			(effects
 				(font
@@ -21379,7 +21379,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "UJC-VP-3-SMT-TR"
+		(property "MPN" "UJC-VP-3-SMT-TR"
 			(at 117.475 112.395 0)
 			(effects
 				(font
@@ -21500,7 +21500,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "RMCF0603JT5R10"
+		(property "MPN" "RMCF0603JT5R10"
 			(at 149.225 132.715 0)
 			(effects
 				(font
