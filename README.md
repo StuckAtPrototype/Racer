@@ -2,7 +2,13 @@
 
 *thank you for the overwhelmingly positve support!! such an inspiration to keep making fun open source content!*
 
-## Youtube Video
+## New Youtube video about improvements 
+Lots of new improvements and I am now selling a kit for these! Check out the video here:
+https://www.youtube.com/watch?v=FulhEs5R5WU
+[![My Kickstarter failed, so I open sourced it](https://img.youtube.com/vi/FulhEs5R5WU/0.jpg)](https://www.youtube.com/watch?v=FulhEs5R5WU)
+
+
+## Original Youtube Video
 A bit of a back-story of how this project came to be. 
 
 [![My Kickstarter failed, so I open sourced it](https://img.youtube.com/vi/6jzG-BMannc/0.jpg)](https://www.youtube.com/watch?v=6jzG-BMannc)
