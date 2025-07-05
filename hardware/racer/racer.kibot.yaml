@@ -1,0 +1,274 @@
+kibot:
+  version: 1
+
+variants:
+  - name: "Racer"
+    comment: "File Generation for racer"
+    type: kibom
+
+global:
+  out_dir: "../production/Export-%D"
+  date_format: "%Y-%m-%d"
+
+outputs:
+  - name: "Naviagation results"
+    comment: "Create navigation results page"
+    type: navigate_results
+    dir: "overview"
+
+  - name: "Download datasheets"
+    comment: "Download component datasheets"
+    type: download_datasheets
+    dir: docs/datasheets
+    category: "documentation"
+
+  - name: "Generate IBOM"
+    comment: "Interactive Bill of Materials"
+    type: ibom
+    dir: docs
+    category: "documentation"
+
+  - name: "Print Schematics"
+    comment: "Print schematic (PDF)"
+    type: pdf_sch_print
+    dir: docs
+    category: "documentation"
+    options:
+      output: Schematic.%x
+
+  - name: "Board Top"
+    comment: "Top layer view"
+    type: pcbdraw
+    dir: docs/images
+    category: "documentation"
+    options:
+      format: png
+      bottom: false
+      output: "PCB_Top.%x"
+
+  - name: "Board Bottom"
+    comment: "Bottom layer view"
+    type: pcbdraw
+    dir: docs/images
+    category: "documentation"
+    options:
+      format: png
+      bottom: true
+      output: "PCB_Bottom.%x"
+
+  - name: "Generate Drill"
+    comment: "Generate drill files"
+    type: excellon
+    dir: gerber
+    category: "production"
+    options:
+      metric_units: true
+      mirror_y_axis: false
+      pth_and_npth_single_file: false
+      left_digits: 0
+      minimal_header: false
+      use_aux_axis_as_origin: true
+      route_mode_for_oval_holes: true
+      zeros_format: "DECIMAL_FORMAT"
+
+  - name: "Generate Gerbers"
+    comment: "Generate Gerbers"
+    type: gerber
+    dir: gerber
+    category: "production"
+    options:
+      exclude_edge_layer: false
+      exclude_pads_from_silkscreen: false
+      plot_sheet_reference: false
+      plot_footprint_refs: true
+      plot_footprint_values: true
+      force_plot_invisible_refs_vals: false
+      tent_vias: true
+      line_width: 0.15
+
+      use_aux_axis_as_origin: false
+      subtract_mask_from_silk: true
+      use_protel_extensions: false
+      gerber_precision: 4.5
+      create_gerber_job_file: true
+      use_gerber_x2_attributes: true
+      use_gerber_net_attributes: false
+
+    layers:
+      - layer: F.Cu
+        suffix: F_Cu
+        description: Front copper
+      - layer: Inner1
+        suffix: Inner1
+        description: 'Inner cooper layer'
+      - layer: Inner2
+        suffix: Inner2
+        description: 'Inner copper layer'
+      - layer: B.Cu
+        suffix: B_Cu
+        description: Bottom copper
+      - layer: B.Paste
+        suffix: B_Paste
+        description: Bottom solder paste
+      - layer: F.Paste
+        suffix: F_Paste
+        description: Front solder paste
+      - layer: B.Silkscreen
+        suffix: B_Silkscreen
+        description: Bottom silkscreen (artwork)
+      - layer: F.Silkscreen
+        suffix: F_Silkscreen
+        description: Front silkscreen (artwork)
+      - layer: B.Mask
+        suffix: B_Mask
+        description: Bottom soldermask (negative)
+      - layer: F.Mask
+        suffix: F_Mask
+        description: Front soldermask (negative)
+      - layer: Edge.Cuts
+        suffix: Edge_Cuts
+        description: Board shape
+      - layer: B.Courtyard
+        suffix: B_Courtyard
+        description: Bottom courtyard area
+      - layer: F.Courtyard
+        suffix: F_Courtyard
+        description: Front courtyard area
+      - layer: B.Fab
+        suffix: B_Fab
+        description: Bottom documentation
+      - layer: F.Fab
+        suffix: F_Fab
+        description: Front documentation
+      - layer: User.1
+        suffix: User_1
+        description: User layer 1
+
+  - name: "Pick & Place"
+    comment: "Pick & Place"
+    type: position
+    dir: centroid
+    category: "production"
+    options:
+      format: ASCII
+      only_smd: false
+
+  - name: "PCB Specifications"
+    comment: "PCB Specifications"
+    type: pcb_print
+    dir: docs
+    category: "production"
+    options:
+      output: "PCB.pdf"
+      format: PDF
+      pages:
+      - layers:
+        - layer: Edge.Cuts
+        - layer: User.1
+        sheet: "PCB Specifications"
+        monochrome: true
+
+  - name: "Ref Top"
+    comment: "Ref Top"
+    type: pcb_print
+    dir: docs
+    category: "purchasing"
+    options:
+      output: "Ref_Top.%x"
+      format: PDF
+      pages:
+      - layers:
+        - layer: Edge.Cuts
+        - layer: F.Fab
+        sheet: "Ref-Top"
+        monochrome: true
+
+  - name: "Ref Bottom"
+    comment: "Ref Bottom"
+    type: pcb_print
+    dir: docs
+    category: "purchasing"
+    options:
+      output: "Ref_Bot.%x"
+      format: PDF
+      pages:
+      - layers:
+        - layer: Edge.Cuts
+        - layer: B.Fab
+        sheet: "Ref-Bottom"
+        monochrome: true
+        mirror: true
+
+  - name: "BOM"
+    comment: "BOM"
+    type: bom
+    dir: docs
+    category: "purchasing"
+    options:
+      format: XLSX
+      count_smd_tht: true
+      output: "BOM.%x"
+      ref_separator: ','
+      columns:
+        - field: Row
+          name: Item
+        - field: References
+          name: Ref Des
+        - field: Build Quantity
+          name: Quantity
+        - field: Mfr.
+          name: Manufacturer
+        - field: Mfr. No.
+          name: Mfg Part#
+        - field: Value
+          name: Description / Value
+        - field: Footprint
+          name: Package
+        - field: Footprint Type
+          name: Type
+        - field: Footprint Side
+          name: Side
+      xlsx:
+        title: "%f BOM"
+        hide_stats_info: false
+        quote_all: true
+        logo: false
+
+  - name: "ZIP Gerber"
+    comment: "ZIP Gerber"
+    type: compress
+    dir: .
+    category: "purchasing"
+    options:
+      format: ZIP
+      files:
+        - source: gerber/**
+      output: "Gerber_%D.%x"
+
+  - name: "ZIP Centroid"
+    comment: "ZIP Centroid"
+    type: compress
+    dir: .
+    category: "purchasing"
+    options:
+      format: ZIP
+      files:
+        - source: centroid/**
+      output: "Centroid_%D.%x"
+
+  - name: "Step file"
+    comment: "STEP file generation"
+    type: step
+    dir: cad
+    category: "mechanical"
+
+  - name: "3D rendering"
+    comment: "3D rendering"
+    type: render_3d
+    dir: docs/images
+    category: "documentation"
+    options:
+      ray_tracing: true
+      rotate_x: 3
+      rotate_z: -2
+      output: "PCB_Rendering.%x"

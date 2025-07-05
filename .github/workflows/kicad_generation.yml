@@ -1,0 +1,52 @@
+name: Production_Electronics_Racer
+
+on:
+  pull_request:
+  workflow_dispatch:
+  pull_request_target:
+    types:
+      - closed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ghcr.io/inti-cmnb/kicad8_auto_full:latest
+
+    permissions:
+      contents: write
+      
+    strategy:
+      matrix:
+        device_type: [racer, racer-sensors, thumbtroller]
+        include:
+          - device_type: racer
+            NewImage: 1
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: .
+          submodules: recursive
+
+      - name: Extract branch name
+        shell: bash
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+        id: extract_branch
+
+      - name: Initialize
+        run: |
+          mkdir -p production
+
+      - name: Generate files
+        run: |
+          cd hardware/${{ matrix.device_type }}
+          kibot -d ../../production/${{ matrix.device_type }}
+
+      - name: Upload Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.device_type }}
+          path: |
+            production
+          if-no-files-found: ignore
