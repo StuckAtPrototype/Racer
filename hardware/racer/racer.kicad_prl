@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 40,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -10,6 +10,7 @@
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
+      "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
       "zones": 0.6
@@ -28,43 +29,27 @@
       "zones": true
     },
     "visible_items": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28,
-      29,
-      30,
-      32,
-      33,
-      34,
-      35,
-      36,
-      39,
-      40
+      "vias",
+      "footprint_text",
+      "footprint_anchors",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "drc_errors",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "locked_item_shadows",
+      "conflict_shadows",
+      "shapes"
     ],
-    "visible_layers": "ff4ffff_ffffffff",
+    "visible_layers": "00000000_00000000_0ff4ffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,10 +59,79 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "tank.kicad_prl",
-    "version": 3
+    "filename": "racer.kicad_prl",
+    "version": 5
   },
+  "net_inspector_panel": {
+    "col_hidden": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "col_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "col_widths": [
+      162,
+      147,
+      91,
+      67,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91,
+      91,
+      91
+    ],
+    "custom_group_rules": [],
+    "expanded_rows": [],
+    "filter_by_net_name": true,
+    "filter_by_netclass": true,
+    "filter_text": "",
+    "group_by_constraint": false,
+    "group_by_netclass": false,
+    "show_unconnected_nets": false,
+    "show_zero_pad_nets": false,
+    "sort_ascending": true,
+    "sorting_column": 0
+  },
+  "open_jobsets": [],
   "project": {
     "files": []
+  },
+  "schematic": {
+    "selection_filter": {
+      "graphics": true,
+      "images": true,
+      "labels": true,
+      "lockedItems": false,
+      "otherItems": true,
+      "pins": true,
+      "symbols": true,
+      "text": true,
+      "wires": true
+    }
   }
 }
