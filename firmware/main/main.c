@@ -238,7 +238,7 @@ void app_main(void)
             float voltage;
             esp_err_t ret = battery_read_voltage(&voltage);
             if (ret == ESP_OK) {
-                ESP_LOGI("main", "Battery ADC counts: %d", (int)voltage);
+                // ESP_LOGI("main", "Battery ADC counts: %d", (int)voltage);
                 
                 // Check for low battery condition (threshold: 3000 ADC counts)
                 if (voltage < 3000) {
@@ -327,8 +327,8 @@ void rbg_read(void){
     ring_buffer_put(&rbg_buffer, red, green, blue);
 
     // Debug logging (currently disabled)
-    //ESP_LOGI("main", "RGB Values: R:%u, G:%u, B:%u, Clear:%lu",
-    //         red_byte, green_byte, blue_byte, clear);
+    // ESP_LOGI("main", "RGB Values: R:%u, G:%u, B:%u, Clear:%lu",
+    //     red, green, blue, clear);
 }
 
 /**

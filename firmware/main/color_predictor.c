@@ -24,7 +24,7 @@ static const char* color_names[] = {
 };
 
 // Default color tolerance for RGB component matching
-#define COLOR_TOLERANCE_DEFAULT 10000
+#define COLOR_TOLERANCE_DEFAULT 6000
 
 // Individual color tolerances for RGB components
 // Red color tolerances
@@ -48,9 +48,9 @@ static const char* color_names[] = {
 #define COLOR_TOLERANCE_GREEN_B COLOR_TOLERANCE_DEFAULT
 
 // Yellow color tolerances (custom values for better detection)
-#define COLOR_TOLERANCE_YELLOW_R 22000
-#define COLOR_TOLERANCE_YELLOW_G 19000
-#define COLOR_TOLERANCE_YELLOW_B 20000
+#define COLOR_TOLERANCE_YELLOW_R COLOR_TOLERANCE_DEFAULT
+#define COLOR_TOLERANCE_YELLOW_G COLOR_TOLERANCE_DEFAULT
+#define COLOR_TOLERANCE_YELLOW_B COLOR_TOLERANCE_DEFAULT
 
 // White color tolerances
 #define COLOR_TOLERANCE_WHITE_R COLOR_TOLERANCE_DEFAULT
@@ -73,9 +73,9 @@ static const char* color_names[] = {
 #define COLOR_CYAN_CLEAR_MAX 670000
 
 // Blue color reference values
-#define COLOR_BLUE_R    12093
-#define COLOR_BLUE_G    23398
-#define COLOR_BLUE_B    31486
+#define COLOR_BLUE_R    13215
+#define COLOR_BLUE_G    24003
+#define COLOR_BLUE_B    31104
 #define COLOR_BLUE_CLEAR_MIN 90136
 #define COLOR_BLUE_CLEAR_MAX 92136
 
@@ -87,9 +87,9 @@ static const char* color_names[] = {
 #define COLOR_GREEN_CLEAR_MAX 440000
 
 // Yellow color reference values
-#define COLOR_YELLOW_R  41120
-#define COLOR_YELLOW_G  52909
-#define COLOR_YELLOW_B  21743
+#define COLOR_YELLOW_R  23627
+#define COLOR_YELLOW_G  30467
+#define COLOR_YELLOW_B  11532
 #define COLOR_YELLOW_CLEAR_MIN 670000
 #define COLOR_YELLOW_CLEAR_MAX 700000
 

@@ -62,7 +62,7 @@ static esp_err_t i2c_master_init(void)
  * This function initializes the TCS3400 color sensor by:
  * 1. Setting up I2C communication
  * 2. Powering on the sensor and enabling ADC (0x03 to ENABLE register)
- * 3. Setting gain to 8x (0x03 to CONTROL register)
+ * 3. Setting gain to 16x (0x02 to CONTROL register)
  * 
  * @return ESP_OK on success, error code on failure
  */
@@ -80,9 +80,9 @@ esp_err_t TCS3400_init(void)
     ret = i2c_master_write_to_device(I2C_MASTER_NUM, TCS3400_SENSOR_ADDR, write_data,
                                2, pdMS_TO_TICKS(1000));
 
-    // Set gain to 8x
+    // Set gain to 16x
     write_data[0] = TCS3400_REG_CONTROL;
-    write_data[1] = 0x03;
+    write_data[1] = 0x02;
     ret = i2c_master_write_to_device(I2C_MASTER_NUM, TCS3400_SENSOR_ADDR, write_data,
                                 2, pdMS_TO_TICKS(1000));
                            
