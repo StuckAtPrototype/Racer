@@ -4,3 +4,4 @@ dependencies.lock
 cmake-build-debug/
 sdkconfig.old
 venv/
+sdkconfig
