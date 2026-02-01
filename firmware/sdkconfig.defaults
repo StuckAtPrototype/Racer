@@ -1,8 +1,7 @@
 # This file was generated using idf.py save-defconfig. It can be edited manually.
-# Espressif IoT Development Framework (ESP-IDF) 6.0.0 Project Minimal Configuration
+# Espressif IoT Development Framework (ESP-IDF) 5.5.1 Project Minimal Configuration
 #
 CONFIG_IDF_TARGET="esp32h2"
-CONFIG_COMPILER_ORPHAN_SECTIONS_WARNING=y
 CONFIG_BT_ENABLED=y
 CONFIG_BT_NIMBLE_ENABLED=y
 CONFIG_BT_LE_DFT_TX_POWER_LEVEL_P20=y
