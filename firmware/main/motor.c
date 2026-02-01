@@ -18,6 +18,15 @@
 QueueHandle_t motor_queue[2];        // Queues for motor control commands (one per motor)
 SemaphoreHandle_t motor_start_semaphore;  // Semaphore for motor start synchronization
 
+// Motor calibration factors (range 0.0 to 1.0, where 1.0 = 100%)
+// These allow fine-tuning each motor's speed for forward and backward directions
+// to compensate for mechanical differences or imbalances
+static const float MOTOR_A_FWD_CALIBRATION = 1.00;  // Motor A forward calibration
+static const float MOTOR_B_FWD_CALIBRATION = 1.00;  // Motor B forward calibration
+
+static const float MOTOR_A_BWD_CALIBRATION = 1.00;  // Motor A backward calibration
+static const float MOTOR_B_BWD_CALIBRATION = 1.00;  // Motor B backward calibration
+
 /**
  * @brief Configure PWM channel for motor control
  * 
@@ -65,6 +74,20 @@ void set_motor_speed(int motor_index, int speed_percent, bool direction)
 
     // Clamp speed percentage to valid range (0-100%)
     speed_percent = (speed_percent < MIN_SPEED_PERCENT) ? 0 : (speed_percent > 100) ? 100 : speed_percent;
+
+    // Apply motor-specific calibration factors
+    if (speed_percent > 0) {
+        float calibration = 1.0;
+        if (motor_index == 0) {  // Motor A
+            calibration = direction ? MOTOR_A_FWD_CALIBRATION : MOTOR_A_BWD_CALIBRATION;
+        } else {  // Motor B
+            calibration = direction ? MOTOR_B_FWD_CALIBRATION : MOTOR_B_BWD_CALIBRATION;
+        }
+        speed_percent = (int)(speed_percent * calibration);
+        // Re-clamp after calibration
+        if (speed_percent > 100) speed_percent = 100;
+        if (speed_percent < MIN_SPEED_PERCENT) speed_percent = MIN_SPEED_PERCENT;
+    }
 
     // Map speed percentage to PWM duty cycle
     int duty;
@@ -170,17 +193,10 @@ void motor_task(void *pvParameters)
     MotorUpdate update;
     
     while (1) {
-        // Check motor queue 0 (Motor A) for commands
-        if (xQueueReceive(motor_queue[0], &update, pdMS_TO_TICKS(10)) == pdTRUE) {
-            ESP_LOGD("Motor", "Motor A command: index %d, speed %d%%, direction %s", 
-                     update.motor_index, update.speed_percent,
-                     update.direction ? "FORWARD" : "BACKWARD");
-            set_motor_speed(update.motor_index, update.speed_percent, update.direction);
-        }
-        
-        // Check motor queue 1 (Motor B) for commands
-        if (xQueueReceive(motor_queue[1], &update, pdMS_TO_TICKS(10)) == pdTRUE) {
-            ESP_LOGD("Motor", "Motor B command: index %d, speed %d%%, direction %s", 
+        // Check only this motor's queue to avoid bias
+        if (xQueueReceive(motor_queue[motor_index], &update, pdMS_TO_TICKS(10)) == pdTRUE) {
+            ESP_LOGD("Motor", "Motor %c command: index %d, speed %d%%, direction %s", 
+                     motor_index == 0 ? 'A' : 'B',
                      update.motor_index, update.speed_percent,
                      update.direction ? "FORWARD" : "BACKWARD");
             set_motor_speed(update.motor_index, update.speed_percent, update.direction);
